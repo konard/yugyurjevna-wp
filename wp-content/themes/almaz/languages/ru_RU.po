@@ -1,0 +1,2380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Almaz\n"
+"POT-Creation-Date: 2022-08-04 16:41+0500\n"
+"PO-Revision-Date: 2022-08-04 16:42+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Страница не существует."
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Ничего не найдено. Искать снова?"
+
+#: archive.php:38 index.php:31 search.php:41
+msgid "Newer posts"
+msgstr "Следующая статья"
+
+#: archive.php:42 index.php:35 search.php:45
+msgid "Older posts"
+msgstr "Предыдущие статьи"
+
+#: comments.php:23
+#, php-format
+msgid "One Response"
+msgid_plural "%1$s Responses"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: functions.php:69
+msgid ""
+"Алмаз WordPress тема: Введите бесплатный лицензионный ключ, чтобы получать "
+"обновления."
+msgstr ""
+
+#: includes/core/almaz-add-theme-support.php:44
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: includes/core/almaz-add-theme-support.php:45
+msgid "Secondary Menu"
+msgstr "Дополнительное меню"
+
+#: includes/core/almaz-add-theme-support.php:46
+msgid "Footer Menu"
+msgstr "Меню футер"
+
+#. Theme Name of the plugin/theme
+#: includes/core/almaz-admin-menu.php:8 includes/core/almaz-admin-menu.php:9
+msgid "Almaz"
+msgstr "Алмаз"
+
+#: includes/core/almaz-admin-menu.php:26 includes/core/almaz-admin-menu.php:27
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: includes/core/almaz-admin-menu.php:69 includes/core/almaz-admin-menu.php:70
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/core/blog/almaz-comment-count.php:11
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставьте комментарий<span class=\"screen-reader-text\"> к %s</span>"
+
+#: includes/core/blog/almaz-entry-footer.php:18
+#: includes/core/blog/almaz-entry-footer.php:27
+msgid ", "
+msgstr ""
+
+#: includes/core/blog/almaz-entry-footer.php:22
+msgid "Posted in"
+msgstr "Опубликовано в"
+
+#: includes/core/blog/almaz-entry-footer.php:31
+msgid "Tags:"
+msgstr "Теги:"
+
+#: includes/core/blog/almaz-posted-by.php:10
+msgid "Posted by"
+msgstr "Автор"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:145
+msgid "Once Weekly"
+msgstr "Раз в неделю"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:149
+msgid "Once Monthly"
+msgstr "Раз в месяц"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:321
+msgid ""
+"We can't detect any product information. This is most probably because you "
+"have not included the code snippet."
+msgstr ""
+"Мы не можем обнаружить никакой информации о продукте. Скорее всего, это "
+"потому, что вы не включили фрагмент кода."
+
+#: includes/core/updater/class-plugin-usage-tracker.php:814
+#, php-format
+msgid ""
+"Thank you for installing our %1$s. We would like to track its usage on your "
+"site. We don't record any sensitive data, only information regarding the "
+"WordPress environment and %1$s settings, which we will use to help us make "
+"improvements to the %1$s. Tracking is completely optional."
+msgstr ""
+"Спасибо за установку нашего %1$s. Мы хотели бы отслеживать его использование "
+"на вашем сайте. Мы не записываем никаких конфиденциальных данных, только "
+"информацию о среде WordPress и настройках %1$s, которую мы будем "
+"использовать для улучшения %1$s. Отслеживание совершенно необязательно."
+
+#: includes/core/updater/class-plugin-usage-tracker.php:820
+#, php-format
+msgid ""
+"Thank you for installing our %1$s. We'd like your permission to track its "
+"usage on your site and subscribe you to our newsletter. We won't record any "
+"sensitive data, only information regarding the WordPress environment and "
+"%1$s settings, which we will use to help us make improvements to the %1$s. "
+"Tracking is completely optional."
+msgstr ""
+"Спасибо за установку нашего %1$s. Нам нужно ваше разрешение, чтобы "
+"отслеживать его использование на вашем сайте и подписываться на нашу "
+"рассылку. Мы не будем записывать какие-либо конфиденциальные данные, только "
+"информацию о среде WordPress и настройках %1$s, которую мы будем "
+"использовать для улучшения %1$s. Отслеживание совершенно необязательно."
+
+#: includes/core/updater/class-plugin-usage-tracker.php:831
+msgid "Allow"
+msgstr "Позволять"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:832
+msgid "Do Not Allow"
+msgstr "Не позволяйте"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:869
+#, php-format
+msgid ""
+"Thank you for opting in to tracking. Would you like to receive occasional "
+"news about this %s, including details of new features and special offers?"
+msgstr ""
+"Спасибо, что согласились на отслеживание. Хотели бы вы время от времени "
+"получать новости об этом %s, включая информацию о новых функциях и "
+"специальных предложениях?"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:878
+msgid "Yes Please"
+msgstr "Да, пожалуйста"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:879
+msgid "No Thank You"
+msgstr "Нет, спасибо"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:910
+msgid "Sorry to see you go"
+msgstr "Жаль, что ты уходишь"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:911
+msgid ""
+"Before you deactivate the plugin, would you quickly give us your reason for "
+"doing so?"
+msgstr ""
+"Прежде чем деактивировать плагин, не могли бы вы быстро сообщить нам причину "
+"этого?"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:913
+msgid "Set up is too difficult"
+msgstr "Настройка слишком сложная"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:914
+msgid "Lack of documentation"
+msgstr "Документация"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:915
+msgid "Not the features I wanted"
+msgstr "Не те функции, которые я хотел"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:916
+msgid "Found a better plugin"
+msgstr "Нашел лучший плагин"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:917
+msgid "Installed by mistake"
+msgstr "Установить и активировать"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:918
+msgid "Only required temporarily"
+msgstr "Требуется только временно"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:919
+msgid "Didn't work"
+msgstr "Не работает"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:921
+msgid "Details (optional)"
+msgstr "Детали (необязательно)"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:960
+msgid "Submitting form"
+msgstr "Отправка"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:1020
+msgid "Submit and Deactivate"
+msgstr "Отправить и деактивировать"
+
+#: includes/core/updater/class-plugin-usage-tracker.php:1020
+msgid "Just Deactivate"
+msgstr "Деактивировать лицензию"
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:54
+msgid "View details"
+msgstr "Посмотреть детали"
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr "Дополнительная информация о %s"
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr "Проверить наличие обновлений"
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:214
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "Плагин %s обновлен."
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:216
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "Доступна новая версия плагина %s."
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:218
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "Не удалось определить, доступны ли обновления для %s."
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:224
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Неизвестный статус средства проверки обновлений \"%s\""
+
+#: includes/core/updater/update-checker/Puc/v4p13/Vcs/PluginUpdateChecker.php:100
+msgid "There is no changelog available."
+msgstr "Журнал изменений недоступен."
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-customizer-importer.php:36
+#: includes/vendor/hashthemes-demo-importer/classes/class-customizer-importer.php:40
+msgid ""
+"Error importing settings! Please check that you uploaded a customizer export "
+"file."
+msgstr ""
+"Ошибка импорта настроек! Убедитесь, что вы загрузили файл экспорта "
+"настройщика."
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-customizer-importer.php:44
+msgid ""
+"Error importing settings! The settings you uploaded are not for the current "
+"theme."
+msgstr ""
+"Ошибка импорта настроек! Загруженные вами настройки не относятся к текущей "
+"теме."
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:122
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:262
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:266
+msgid "Install"
+msgstr "Установить"
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:126
+msgid "Activate"
+msgstr "Активировать"
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:130
+msgid "Installed"
+msgstr "Установлен"
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:144
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:193
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Извините, вам не разрешено устанавливать плагины на этом сайте."
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:159
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:209
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:257
+msgid "Error - unable to verify nonce, please try again."
+msgstr "Произошла ошибка. Пожалуйста, попробуйте еще раз."
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:236
+msgid "Missing File Location."
+msgstr "Отсутствует местоположение файла."
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:270
+msgid "Error!! Plugin not activated."
+msgstr "Ошибка!! Плагин не активирован."
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:27
+msgid "Widget data is not available"
+msgstr "Данные виджета недоступны"
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:72
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+"Боковая панель не существует в теме (перемещение виджета в неактивное "
+"состояние)"
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:94
+msgid "Site does not support widget"
+msgstr "Сайт не поддерживает виджет"
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:128
+msgid "Widget already exists"
+msgstr "Виджет уже существует"
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:192
+msgid "Imported"
+msgstr "Импортированный"
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:195
+msgid "Imported to Inactive"
+msgstr "Импортировано в неактивный"
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:201
+msgid "No Title"
+msgstr "Без заголовка"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:97
+msgid "OneClick Demo Install"
+msgstr "Стартовые шаблонные сайты"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:97
+msgid "HashThemes Demo Importer"
+msgstr "Стартовые шаблонные сайты"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:150
+msgid "HashThemes OneClick Demo Importer"
+msgstr "Стартовые шаблонные сайты"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:181
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:200
+msgid "All"
+msgstr "Все"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:251
+msgid "Preview"
+msgstr "Демонстрация"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:258
+msgid "Buy Now"
+msgstr "Купить"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:281
+msgid ""
+"It looks like the config file for the demos is missing or conatins errors!. "
+"Demo install can't go futher!"
+msgstr "Файл конфигурации для демо отсутствует или содержит ошибки!"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:300
+msgid "Импорт"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:301
+msgid ""
+"This process will install all the required plugins, import contents and "
+"setup customizer and theme options."
+msgstr ""
+"После установки стартового шаблонного сайта у вас появятся готовые для "
+"редактирования страницы и записи выбранного шаблона, автоматически "
+"установятся и активируются все необходимые плагины."
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:303
+msgid "Required Plugins"
+msgstr "Требуемые плагины"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:304
+msgid ""
+"For your website to look exactly like the demo,the import process will "
+"install and activate the following plugin if they are not installed or "
+"activated."
+msgstr ""
+"Чтобы ваш веб-сайт выглядел точно так же, как в демо, в процессе импорта "
+"будут установлены и активированы следующие плагины, если они не установлены "
+"или не активированы."
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:335
+msgid "No Required Plugins Found."
+msgstr "Не найдены необходимые плагины."
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:343
+msgid "Reset Website"
+msgstr "Сбросить веб-сайт"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:344
+msgid ""
+"Reseting the website will delete all your post, pages, custom post types, "
+"categories, taxonomies, images and all other customizer and theme option "
+"settings."
+msgstr ""
+"Рекомендуется сбросить веб-сайт, сброс веб-сайта удалит все ваши страницы, "
+"статьи, пользовательские типы сообщений, категории, таксономии, изображения "
+"и все другие настройки параметров настройки и темы. Мы рекомендуем сделать "
+"резервную копию содержимого вашего веб-сайта перед попыткой импортировать "
+"демоверсию, чтобы вы могли восстановить свой веб-сайт если что-то пойдет не "
+"так."
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:351
+msgid "Import Demo"
+msgstr "Установить шаблонный сайт"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:352
+msgid "Cancel"
+msgstr "Отмена"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:360
+msgid "Demo Import Progress"
+msgstr "Прогресс демо-импорта"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:394
+msgid "Database reset complete"
+msgstr "Сброс базы данных завершен"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:400
+msgid "Installing required plugins"
+msgstr "Установка необходимых плагинов"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:419
+msgid "All the required plugins installed"
+msgstr "Установлены все необходимые плагины"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:421
+msgid "No plugin required to install"
+msgstr "Плагин не требуется для установки"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:427
+msgid "Activating required plugins"
+msgstr "Активация необходимых плагинов"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:446
+msgid "All the required plugins activated"
+msgstr "Все необходимые плагины активированы"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:448
+msgid "No plugin required to activate"
+msgstr "Плагин не требуется для активации"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:454
+msgid "Downloading demo files"
+msgstr "Загрузка демонстрационных файлов"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:469
+msgid "All demo files downloaded"
+msgstr "Все демонстрационные файлы загружены"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:471
+msgid "Importing posts, pages and medias. It may take a bit longer time"
+msgstr ""
+"Импорт постов, страниц и медиа. Это может занять немного больше времени"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:474
+msgid "Demo import process failed. Demo files can not be downloaded"
+msgstr "Ошибка процесса импорта демо. Демо-файлы не могут быть загружены"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:495
+msgid "All content imported"
+msgstr "Весь контент импортирован"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:497
+msgid "Importing customizer settings"
+msgstr "Импорт настроек настройщика"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:500
+msgid "Demo import process failed. No content file found"
+msgstr "Ошибка процесса импорта демо. Файл содержимого не найден"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:523
+msgid "Customizer settings imported"
+msgstr "Настройки настройщика импортированы"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:525
+msgid "No customizer settings found"
+msgstr "Настройки настройщика не найдены"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:530
+msgid "Setting menus"
+msgstr "Меню настроек"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:546
+msgid "Menus saved"
+msgstr "Меню сохранено"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:548
+msgid "No menus saved"
+msgstr "Меню не сохранены"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:553
+msgid "Importing theme option settings"
+msgstr "Импорт настроек параметров темы"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:579
+msgid "Theme options settings imported"
+msgstr "Настройки параметров темы импортированы"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:581
+msgid "No theme options found"
+msgstr "Варианты темы не найдены"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:586
+msgid "Importing widgets"
+msgstr "Импорт виджетов"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:604
+msgid "Widgets imported"
+msgstr "Виджеты импортированы"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:606
+msgid "No widgets found"
+msgstr "Виджеты не найдены"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:613
+msgid "Importing Revolution slider"
+msgstr "Импорт слайдера Revolution"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:638
+msgid "Revolution slider installed"
+msgstr "Установлен слайдер Revolution"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:640
+msgid "Revolution slider plugin not installed"
+msgstr "Плагин слайдера Revolution не установлен"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:643
+msgid "No Revolution slider found"
+msgstr "Ползунок Revolution не найден"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1024
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1028
+msgid "Installed and Active"
+msgstr "Установлен и активен"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1032
+msgid "Installed but Not Active"
+msgstr "Установлен, но не активен"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1051
+msgid "Preparing to import demo"
+msgstr "Подготовка к импорту демо"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1052
+msgid "Reseting database"
+msgstr "Сброс базы данных"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1053
+msgid "Database was not reset"
+msgstr "База данных не была сброшена"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1054
+#, php-format
+msgid ""
+"There was an error in importing demo. Please reload the page and try again. "
+"If it still did not work then please click %s for more detail."
+msgstr ""
+"Произошла ошибка при импорте демо. Пожалуйста, обновите страницу и "
+"попробуйте еще раз. Если это все еще не работает, нажмите %s для получения "
+"более подробной информации."
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1055
+msgid "All done. Have fun!"
+msgstr "Импорт завершен!"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1055
+msgid "Your website has been successfully setup."
+msgstr "Поздравляем, ваш стартовый шаблон был успешно импортирован!"
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1055
+msgid "Go Back"
+msgstr "Назад"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:104
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:113
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:164
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:168
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:177
+msgid "Sorry, there has been an error."
+msgstr "Извините, произошла ошибка."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:105
+msgid "The file does not exist, please try again."
+msgstr "Файл не существует, попробуйте еще раз."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:148
+msgid "All done."
+msgstr "Все сделано."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:148
+msgid "Have fun!"
+msgstr "Веселиться!"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:149
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Не забудьте обновить пароли и роли импортированных пользователей."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:169
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Не удалось найти файл экспорта в <code>%s</code>. Вероятно, это было вызвано "
+"проблемой с разрешениями."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:185
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Этот файл WXR (версия %s) может не поддерживаться этой версией импортера. "
+"Пожалуйста, рассмотрите возможность обновления."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:210
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Не удалось импортировать автора %s. Их сообщения будут привязаны к текущему "
+"пользователю."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:236
+msgid "Assign Authors"
+msgstr "Назначить авторов"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:237
+msgid ""
+"To make it simpler for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site, such as your primary administrator account."
+msgstr ""
+"Чтобы вам было проще редактировать и сохранять импортированный контент, вы "
+"можете переназначить автора импортированного элемента существующему "
+"пользователю этого сайта, например, вашей учетной записи основного "
+"администратора."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:239
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Если WordPress создает нового пользователя, новый пароль будет сгенерирован "
+"случайным образом, а роль нового пользователя будет установлена как %s. "
+"Потребуется вручную изменить данные нового пользователя."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:249
+msgid "Import Attachments"
+msgstr "Импорт вложений"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:252
+msgid "Download and import file attachments"
+msgstr "Загрузка и импорт вложенных файлов"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:256
+msgid "Submit"
+msgstr "Отправить"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:269
+msgid "Import author:"
+msgstr "Автор импорта:"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:282
+msgid "or create new user with login name:"
+msgstr "или создайте нового пользователя с логином:"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:285
+msgid "as a new user:"
+msgstr "как новый пользователь:"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:295
+msgid "assign posts to an existing user:"
+msgstr "назначить сообщения существующему пользователю:"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:297
+msgid "or assign posts to an existing user:"
+msgstr "или назначьте сообщения существующему пользователю:"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:305
+msgid "- Select -"
+msgstr "- Выбирать -"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:359
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Не удалось создать нового пользователя для %s. Их сообщения будут привязаны "
+"к текущему пользователю."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:412
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Не удалось импортировать категорию %s"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:458
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Не удалось импортировать тег сообщения %s"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:514
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Не удалось импортировать %s %s"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:607
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Не удалось импортировать &#8220;%s&#8221;: неверный тип записи %s"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:643
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; уже существует."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:705
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Не удалось импортировать %s &#8220;%s&#8221;"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:878
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Пункт меню пропущен из-за отсутствия слага меню"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:885
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Пункт меню пропущен из-за неправильного названия меню: %s"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:956
+msgid "Fetching attachments is not enabled"
+msgstr "Извлечение вложений не включено"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:969
+msgid "Invalid file type"
+msgstr "Неверный тип файла"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1008
+msgid "Could not create temporary file."
+msgstr "Не удалось создать временный файл."
+
+#. translators: 1: The WordPress error message. 2: The WordPress error code.
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1026
+#, php-format
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr "Запрос не выполнен из-за ошибки: %1$s (%2$s)"
+
+#. translators: 1: The HTTP error message. 2: The HTTP error code.
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1039
+#, php-format
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr ""
+"Удаленный сервер возвратил следующий неожиданный результат: %1$s (%2$s)"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1049
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1154
+msgid "Remote server did not respond"
+msgstr "Удаленный сервер не ответил"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1056
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1172
+msgid "Zero size file downloaded"
+msgstr "Загруженный файл нулевого размера"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1061
+msgid "Downloaded file has incorrect size"
+msgstr "Загруженный файл имеет неправильный размер"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1067
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1178
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Удаленный файл слишком велик, установлен предел в %s"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1099
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Извините, этот тип файла не разрешен по соображениям безопасности."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1114
+msgid "The uploaded file could not be moved"
+msgstr "Загруженный файл не может быть перемещен"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1160
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Удаленный сервер вернул ответ об ошибке %1$d %2$s"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1167
+msgid "Remote file is incorrect size"
+msgstr "Удаленный файл имеет неправильный размер"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1278
+msgid "Import WordPress"
+msgstr "Импорт WordPress"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1285
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"Доступна новая версия этого импортера. Обновите до версии %s, чтобы "
+"обеспечить совместимость с более новыми файлами экспорта."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1300
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Привет! Загрузите файл WordPress eXtended RSS (WXR), и мы импортируем "
+"сообщения, страницы, комментарии, настраиваемые поля, категории и теги на "
+"этот сайт."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1301
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Выберите файл WXR (.xml) для загрузки, затем нажмите Загрузить файл и "
+"импортировать."
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser-regex.php:96
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser-simplexml.php:43
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser-simplexml.php:48
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser-xml.php:50
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Похоже, это не файл WXR, отсутствует/неверный номер версии WXR"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser-simplexml.php:31
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser-simplexml.php:39
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser.php:44
+msgid "There was an error when reading this WXR file"
+msgstr "Произошла ошибка при чтении этого файла WXR"
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser.php:45
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Подробности показаны выше. Теперь импортер попытается снова с другим "
+"парсером..."
+
+#: search.php:16
+msgid "Search results for:"
+msgstr "Результаты поиска для:"
+
+#. translators: %s: parent post link
+#: single.php:30
+#, php-format
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</"
+"span>"
+msgstr ""
+"<span class=\"meta-nav\">Опубликовано в</span><span class=\"post-title\">%s</"
+"span>"
+
+#: single.php:37
+msgid "Next Post"
+msgstr "Следующая статья"
+
+#: single.php:38
+msgid "Next post:"
+msgstr "Следующая статья:"
+
+#: single.php:40
+msgid "Previous Post"
+msgstr "Предыдущая статья"
+
+#: single.php:41
+msgid "Previous post:"
+msgstr "Предыдущая статья:"
+
+#: template-parts/excerpt.php:12
+msgctxt "post"
+msgid "Featured"
+msgstr "Рекомендуемые"
+
+#: template-parts/none.php:10
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/none.php:14
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Мы не можем найти то, что вы ищете. Возможно, поиск поможет."
+
+#: template-parts/widgets.php:8
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#. Theme URI of the plugin/theme
+msgid "https://almazwptemplates.ru/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Тема для WordPress Алмаз, это конструктор сайтов разработанный на основе "
+"самых современных веб технологий, в тему встроен один из лучших бесплатных "
+"конструкторов сайтов Brizy Free. Вместе с темой Алмаз вы бесплатно получите "
+"23 шаблона для создания сайта. Дополнительно вы можете приобрести наши "
+"премиальные шаблоны сайтов, разработанные нашими интернет маркетологами и "
+"веб специалистами, специально для Российского бизнеса. В премиум сайты "
+"встроен конструктор сайтов Brizy Pro, который позволит воспользоваться всеми "
+"профессиональными функциями конструктора страниц Brizy."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "almazweb.company"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://almazweb.company/"
+msgstr ""
+
+#~ msgid "An error occurred, please try again."
+#~ msgstr "Произошла ошибка. Пожалуйста, попробуйте еще раз."
+
+#~ msgid "Your license key expired on %s."
+#~ msgstr "Срок действия вашего лицензионного ключа истек %s."
+
+#~ msgid "Your license key has been disabled."
+#~ msgstr "Ваш лицензионный ключ отключен."
+
+#~ msgid "Invalid license."
+#~ msgstr "Недействительная лицензия."
+
+#~ msgid "Your license is not active for this URL."
+#~ msgstr "Ваша лицензия неактивна для этого URL."
+
+#~ msgid "This appears to be an invalid license key for %s."
+#~ msgstr "Это недействительный лицензионный ключ для %s."
+
+#~ msgid "Your license key has reached its activation limit."
+#~ msgstr "Ваш лицензионный ключ достиг предела активации."
+
+#~ msgid "Almaz theme license"
+#~ msgstr "Лицензия"
+
+#~ msgid "Enter your theme license key."
+#~ msgstr "Ваш лицензионный ключ."
+
+#~ msgid "License Key WordPress Theme Almaz"
+#~ msgstr "Лицензионный ключ от WordPress темы Алмаз"
+
+#~ msgid "License Action"
+#~ msgstr "Действие Лицензии"
+
+#~ msgid "Deactivate License"
+#~ msgstr "Деактивировать лицензию"
+
+#~ msgid "Activate License"
+#~ msgstr "Активировать лицензию"
+
+#~ msgid "License status is unknown."
+#~ msgstr "Статус лицензии неизвестен."
+
+#~ msgid "Renew?"
+#~ msgstr "Продлить?"
+
+#~ msgid "unlimited"
+#~ msgstr "неограниченный"
+
+#~ msgid "License key is active."
+#~ msgstr "Лицензионный ключ активен."
+
+#~ msgid "Expires %s."
+#~ msgstr "Истекает %s."
+
+#~ msgid "Lifetime License."
+#~ msgstr "Пожизненная лицензия."
+
+#~ msgid "You have %1$s / %2$s sites activated."
+#~ msgstr "У вас активированы сайты %1$s / %2$s."
+
+#~ msgid "License key expired %s."
+#~ msgstr "Срок действия лицензионного ключа истек %s."
+
+#~ msgid "License key has expired."
+#~ msgstr "Срок действия лицензионного ключа истек."
+
+#~ msgid "License keys do not match."
+#~ msgstr "Лицензионные ключи не совпадают."
+
+#~ msgid "License is inactive."
+#~ msgstr "Лицензия неактивна."
+
+#~ msgid "License key is disabled."
+#~ msgstr "Лицензионный ключ отключен."
+
+#~ msgid "Site is inactive."
+#~ msgstr "Сайт неактивен."
+
+#~ msgid ""
+#~ "Updating this theme will lose any customizations you have made. 'Cancel' "
+#~ "to stop, 'OK' to update."
+#~ msgstr ""
+#~ "Обновление этой темы приведет к потере всех внесенных вами настроек. "
+#~ "\"Отмена\" для остановки, \"ОК\" для обновления."
+
+#~ msgid ""
+#~ "<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox"
+#~ "\" title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update "
+#~ "now</a>."
+#~ msgstr ""
+#~ "<strong>%1$s %2$s</strong> доступно. <a href=\"%3$s\" class=\"thickbox\" "
+#~ "title=\"%4s\">Проверьте, что нового</a> или <a href=\"%5$s\"%6$s>обновите "
+#~ "сейчас</a>."
+
+#~ msgid "License Key"
+#~ msgstr "Лицензия"
+
+#~ msgid ""
+#~ "We recommend you backup your website content before attempting to import "
+#~ "the demo so that you can recover your website if something goes wrong. "
+#~ "You can use %s plugin for it."
+#~ msgstr ""
+#~ "Мы рекомендуем сделать резервную копию содержимого вашего веб-сайта перед "
+#~ "попыткой импортировать демоверсию, чтобы вы могли восстановить свой веб-"
+#~ "сайт если что-то пойдет не так. Вы можете использовать плагин %s для "
+#~ "этого."
+
+#~ msgid "Exclude Images"
+#~ msgstr "Исключить изображения"
+
+#~ msgid ""
+#~ "Check this option if importing demo fails multiple times. Excluding image "
+#~ "will make the demo import process super quick."
+#~ msgstr ""
+#~ "Установите этот флажок, если импорт демо несколько раз завершается "
+#~ "неудачно. Исключение изображения сделает процесс импорта демо очень "
+#~ "быстрым."
+
+#~ msgid ""
+#~ "It is always recommended to reset the database for a complete demo import."
+#~ msgstr "Рекомендуется сбросить веб-сайт."
+
+#~ msgid "Import"
+#~ msgstr "Импортировать"
+
+#~ msgid "View Pro"
+#~ msgstr "Посмотреть Pro"
+
+#~ msgid "Failed"
+#~ msgstr "Ошибка импорта"
+
+#~ msgid "Error"
+#~ msgstr "Ошибка"
+
+#~ msgid "Skipping"
+#~ msgstr "Пропустить"
+
+#~ msgid "Advanced Import! Just a step away"
+#~ msgstr "Импорт стартового шаблона сайта"
+
+#~ msgid ""
+#~ "Importing demo data is the easiest way to setup your theme. It will allow "
+#~ "you to quickly edit everything instead of creating content from scratch. "
+#~ "Also, read following points before importing the demo: %1$s %2$s %3$s %4$s"
+#~ msgstr "%1$s %2$s %3$s %4$s"
+
+#~ msgid ""
+#~ "It is highly recommended to import demo on fresh WordPress installation "
+#~ "to exactly replicate the theme demo. If no important data on your site, "
+#~ "you can reset it from Reset Wizard at the top"
+#~ msgstr ""
+#~ "Рекомендуем импортировать стартовый шаблон сайта, в чистую установку "
+#~ "WordPress. Если на вашем сайте нет важных данных, вы можете сбросить "
+#~ "WordPress с помощью Мастера сброса вверху страницы"
+
+#~ msgid ""
+#~ "No existing posts, pages, categories, images, custom post types or any "
+#~ "other data will be deleted or modified."
+#~ msgstr ""
+#~ "После установки шаблонного сайта у вас появятся готовые для "
+#~ "редактирования страницы и записи."
+
+#~ msgid ""
+#~ "It will install the plugins required for demo and activate them. Also "
+#~ "posts, pages, images, widgets, & other data will get imported."
+#~ msgstr "Будут импортированы изображения, виджеты и другие данные."
+
+#~ msgid "The demo will install following plugin/s:"
+#~ msgstr "Установятся следующие плагины:"
+
+#~ msgid ""
+#~ "Please click on the Import button and wait, it will take some time to "
+#~ "import the data."
+#~ msgstr " "
+
+#~ msgid "Yes, Import Demo!"
+#~ msgstr "Да, импортировать демо!"
+
+#~ msgid "Are you sure?"
+#~ msgstr "Вы уверены?"
+
+#~ msgid "You won't be able to revert this!"
+#~ msgstr "Все ваши данные удалятся."
+
+#~ msgid "Yes, Reset"
+#~ msgstr "Да, сбросить"
+
+#~ msgid "Resetting! Starting WordPress in Default Mode."
+#~ msgstr "Сброс WordPress."
+
+#~ msgid "Reset Successful"
+#~ msgstr "Успешный сброс"
+
+#~ msgid "Ok"
+#~ msgstr "Ok"
+
+#~ msgid "Error Code:"
+#~ msgstr "Код ошибки:"
+
+#~ msgid "Contact theme author or try again"
+#~ msgstr "Свяжитесь с автором темы или повторите попытку позже"
+
+#~ msgid ""
+#~ "Your WordPress could not install the plugin correctly. You have to "
+#~ "install the following plugin manually:"
+#~ msgstr ""
+#~ "WordPress не может правильно установить плагин. Вы должны установить "
+#~ "следующий плагин вручную:"
+
+#~ msgid "Plugin:"
+#~ msgstr "Плагин:"
+
+#~ msgid "Visit My Site"
+#~ msgstr "Посетите мой сайт"
+
+#~ msgid "Okay"
+#~ msgstr "Ок"
+
+#~ msgid "Advanced Import"
+#~ msgstr "Расширенный импорт"
+
+#~ msgid ""
+#~ "Processing... Please do not refresh this page or do not go to other url!"
+#~ msgstr "Обработка... Пожалуйста, не обновляйте эту страницу!"
+
+#~ msgid "Welcome to the Advanced Import for %s."
+#~ msgstr "Добро пожаловать в расширенный импорт для %s."
+
+#~ msgid ""
+#~ "Thank you for choosing the %s theme. This quick demo import setup will "
+#~ "help you configure your new website like theme demo. It will install the "
+#~ "required WordPress plugins, default content and tell you a little about "
+#~ "Help &amp; Support options. It should only take less than 5 minutes."
+#~ msgstr ""
+#~ "Благодарим вас за выбор темы %s. Эта быстрая настройка импорта демо-"
+#~ "версии поможет вам настроить ваш новый веб-сайт как демо-версию темы. Он "
+#~ "установит необходимые плагины WordPress, содержимое по умолчанию и "
+#~ "расскажет вам немного о возможностях справки и поддержки. Это должно "
+#~ "занять не более 5 минут."
+
+#~ msgid "It looks like you have already run the demo import for this theme."
+#~ msgstr "Похоже, вы уже запустили демонстрационный импорт."
+
+#~ msgid "Sorry, you are not allowed to install demo on this site."
+#~ msgstr "К сожалению, вам не разрешено устанавливать демо-версию."
+
+#~ msgid "Invalid Zip File"
+#~ msgstr "Поврежденный ZIP-файл"
+
+#~ msgid "Success"
+#~ msgstr "Успех"
+
+#~ msgid "No Zip File Found"
+#~ msgstr "Zip-файл не найден"
+
+#~ msgid "Remote server did not respond, Contact to Theme Author"
+#~ msgstr "Удаленный сервер не отвечает"
+
+#~ msgid "Zero size file downloaded, Contact to Theme Author"
+#~ msgstr "Загруженный файл нулевого размера"
+
+#~ msgid "File not allowed"
+#~ msgstr "Файл не разрешен"
+
+#~ msgid "Search..."
+#~ msgstr "Поиск..."
+
+#~ msgid "Upload zip"
+#~ msgstr "Загрузить zip-файл"
+
+#~ msgid "Categories"
+#~ msgstr "Категории"
+
+#~ msgid "All Categories"
+#~ msgstr "Все Категории"
+
+#~ msgid "Author: "
+#~ msgstr "Автор: "
+
+#~ msgid "Premium"
+#~ msgstr "Премиум"
+
+#~ msgid "Upload a zip file containing demo content"
+#~ msgstr "Загрузите zip-файл с демо-контентом"
+
+#~ msgid "Maximum upload file size: %s"
+#~ msgstr "Максимальный размер загружаемого файла: %s"
+
+#~ msgid "Select File and Try Again!"
+#~ msgstr "Выберите файл и попробуйте еще раз!"
+
+#~ msgid "Upload Demo Zip"
+#~ msgstr "Загрузить демонстрационный ZIP-файл"
+
+#~ msgid "Not right now"
+#~ msgstr "Не прямо сейчас"
+
+#~ msgid ""
+#~ "Your website needs a few essential plugins. We are installing them..."
+#~ msgstr ""
+#~ "Вашему сайту нужно несколько основных плагинов. Мы их устанавливаем..."
+
+#~ msgid "This will create default %s as seen in the demo."
+#~ msgstr "Это создаст %s по умолчанию, как показано в демонстрации."
+
+#~ msgid "Pending."
+#~ msgstr "Отправка."
+
+#~ msgid "Installing."
+#~ msgstr "Установка."
+
+#~ msgid "Success."
+#~ msgstr "Успех."
+
+#~ msgid "Widgets"
+#~ msgstr "Виджеты"
+
+#~ msgid "Insert default sidebar widgets as seen in the demo."
+#~ msgstr ""
+#~ "Вставьте виджеты боковой панели по умолчанию, как показано в демо-версии."
+
+#~ msgid "Installing Default Widgets."
+#~ msgstr "Установка виджетов по умолчанию."
+
+#~ msgid "Configure default settings."
+#~ msgstr "Настройте параметры."
+
+#~ msgid "Installing Default Settings."
+#~ msgstr "Установка настроек по умолчанию."
+
+#~ msgid ""
+#~ "It's time to insert some demo content for your new WordPress Site. Once "
+#~ "inserted, this content can be managed from the WordPress admin dashboard. "
+#~ msgstr ""
+#~ "Пришло время вставить демонстрационный контент для вашего нового сайта "
+#~ "WordPress. После вставки этим контентом можно управлять с панели "
+#~ "администратора WordPress. "
+
+#~ msgid "Description"
+#~ msgstr "Описание"
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "Starting import for "
+#~ msgstr "Начинаем импорт для "
+
+#~ msgid "Finish writing "
+#~ msgstr "Закончить писать "
+
+#~ msgid " delayed posts to transient "
+#~ msgstr " отложенные сообщения для временных "
+
+#~ msgid "Insert old TERM ID "
+#~ msgstr "Вставить старый идентификатор TERM "
+
+#~ msgid " as new TERM ID: "
+#~ msgstr " как новый идентификатор термина: "
+
+#~ msgid "Insert old ID "
+#~ msgstr "Вставить старый идентификатор "
+
+#~ msgid "Replacement OLD ID "
+#~ msgstr "Замена СТАРОГО ID "
+
+#~ msgid "Processing "
+#~ msgstr "Обработка "
+
+#~ msgid ""
+#~ "Unable to find replacement. Continue anyway.... content will most likely "
+#~ "break.."
+#~ msgstr ""
+#~ "Невозможно найти замену. Все равно продолжайте.... содержание, скорее "
+#~ "всего, сломается.."
+
+#~ msgid "Unable to find replacement. Delaying...."
+#~ msgstr "Невозможно найти замену. Задержка...."
+
+#~ msgid "Unable to find TAXONOMY replacement for "
+#~ msgstr "Не удалось найти замену TAXONOMY для "
+
+#~ msgid "in content."
+#~ msgstr "в содержании."
+
+#~ msgid "delayed posts"
+#~ msgstr "задержанные сообщения"
+
+#~ msgid "- Successfully processed "
+#~ msgstr "- Успешно обработано "
+
+#~ msgid " previously."
+#~ msgstr " ранее."
+
+#~ msgid " delayed posts remain ) "
+#~ msgstr " отложенные посты остаются ) "
+
+#~ msgid " - Successfully found delayed replacement for "
+#~ msgstr " - Успешно найдена отложенная замена для "
+
+#~ msgid " - Not found delayed replacement for "
+#~ msgstr " - Не найдена отложенная замена для "
+
+#~ msgid "ERROR!!!! "
+#~ msgstr "ОШИБКА!!!! "
+
+#~ msgid "Your Website is Ready!"
+#~ msgstr "Ваш сайт готов!"
+
+#~ msgid " %1$sVisit your Site%2$s "
+#~ msgstr " %1$sПосетите свой сайт%2$s "
+
+#~ msgid ""
+#~ "Congratulations! All Data is imported successfully. From %1$s WordPress "
+#~ "dashboard%2$s you can make changes and modify any of the default content "
+#~ "to suit your needs."
+#~ msgstr ""
+#~ "Поздравляем! Все данные успешно импортированы. Отредактируйте страницы в "
+#~ "конструкторе страниц. %1$s %2$s"
+
+#~ msgid "No plugin specified."
+#~ msgstr "Плагин не указан."
+
+#~ msgid ""
+#~ "Unable to connect to the filesystem. Please confirm your credentials."
+#~ msgstr ""
+#~ "Не удается подключиться к файловой системе. Пожалуйста, подтвердите свои "
+#~ "учетные данные."
+
+#~ msgid "Information"
+#~ msgstr "Информация"
+
+#~ msgid ""
+#~ "Export you content via, <a href=\"%s\" target=\"_blank\">Advanced Export</"
+#~ "a>. You can import export content, widget, customizer and media files too."
+#~ msgstr ""
+#~ "Экспортируйте свой контент с помощью <a href=\"%s\" target=\"_blank"
+#~ "\">расширенного экспорта</a>. Вы также можете импортировать экспортный "
+#~ "контент, виджет, настройщик и медиафайлы."
+
+#~ msgid ""
+#~ "The zip file exported via <a href=\"%1$s\" target=\"_blank\">Advanced "
+#~ "Export</a>. can be imported from this plugin <a href=\"%2$s\">Advanced "
+#~ "Import</a>."
+#~ msgstr ""
+#~ "ZIP-файл, экспортированный с помощью <a href=\"%1$s\" target=\"_blank"
+#~ "\">расширенного экспорта</a>. можно импортировать из этого подключаемого "
+#~ "модуля <a href=\"%2$s\">Расширенный импорт</a>."
+
+#~ msgid "Community forum"
+#~ msgstr "Форум сообщества"
+
+#~ msgid "Reset wizard"
+#~ msgstr "Мастер сброса"
+
+#~ msgid "<strong>WordPress Reset</strong>"
+#~ msgstr "<strong>Сброс WordPress</strong>"
+
+#~ msgid ""
+#~ "If no important data on your site. You can reset the WordPress back to "
+#~ "default again!"
+#~ msgstr ""
+#~ "Если на вашем сайте нет важных данных. Вы можете снова вернуть WordPress "
+#~ "к умолчанию!"
+
+#~ msgid "Run the Reset Wizard"
+#~ msgstr "Запустите Мастер сброса"
+
+#~ msgid "Advanced Export"
+#~ msgstr "Расширенный Экспорт"
+
+#~ msgid "<strong>Allow Track</strong>"
+#~ msgstr "<strong>Разрешить отслеживание</strong>"
+
+#~ msgid "Allow Track"
+#~ msgstr "Разрешить Отслеживание"
+
+#~ msgid ""
+#~ "Howdy, %1$s! Allow Advanced Import to anonymously track how this plugin "
+#~ "is used and help us make the plugin better. No sensitive data is tracked."
+#~ msgstr ""
+#~ "Привет, %1$s! Разрешить расширенному импорту анонимно отслеживать, как "
+#~ "используется этот плагин, и помочь нам улучшить его. Никакие "
+#~ "конфиденциальные данные не отслеживаются."
+
+#~ msgid "Do not allow"
+#~ msgstr "Не допускайте"
+
+#~ msgid "Action failed. Please refresh the page and retry."
+#~ msgstr ""
+#~ "Действие провалилось. Пожалуйста, обновите страницу и повторите попытку."
+
+#~ msgid "Cheatin&#8217; huh?"
+#~ msgstr "Изменяешь&#8217; да?"
+
+#~ msgid "No permission to reset WordPress"
+#~ msgstr "Нет разрешения на сброс WordPress"
+
+#~ msgid ""
+#~ "<strong>WordPress Reset</strong> &#8211; If no important data on your "
+#~ "site. You can reset the WordPress back to default again!"
+#~ msgstr ""
+#~ "<strong>Сброс WordPress</strong> &#8211; Если на вашем сайте нет важных "
+#~ "данных, вы можете сбросить WordPress. Все ваши данные удалятся."
+
+#~ msgid "Hide this notice"
+#~ msgstr "Скрыть это уведомление"
+
+#~ msgid ""
+#~ "WordPress has been reset back to defaults. The user <strong>\"%1$s\"</"
+#~ "strong> was recreated with its previous password."
+#~ msgstr ""
+#~ "WordPress был сброшен обратно к настройкам по умолчанию. Пользователь "
+#~ "<strong>\"%1$s\"</strong> был воссоздан с его предыдущим паролем."
+
+#~ msgid "Title 2"
+#~ msgstr "Название 2"
+
+#~ msgid "Contact Form 7"
+#~ msgstr "Контактная Форма 7"
+
+#~ msgid ""
+#~ "Select and import the starter template site. After installing the "
+#~ "template site, you will have pages ready for editing and recording the "
+#~ "selected template."
+#~ msgstr ""
+#~ "Выберите и импортируйте стартовый шаблонный сайт. После установки "
+#~ "шаблонного сайта у вас появятся готовые для редактирования страницы и "
+#~ "записи выбранного шаблона."
+
+#~ msgid ""
+#~ "You have not activated the license key for the Almaz WordPress theme. "
+#~ "Without a license key, you will not be able to install the starter "
+#~ "template sites."
+#~ msgstr ""
+#~ "Вы не активировали лицензионный ключ от WordPress темы Алмаз. Без "
+#~ "лицензионного ключа, вы не сможете установить стартовые шаблонные сайты."
+
+#~ msgid "Wordpress themes"
+#~ msgstr "Шаблоны"
+
+#~ msgid "Page builder"
+#~ msgstr "Конструктор страниц"
+
+#~ msgid "Paid add-on for Brizy page builder."
+#~ msgstr "Платное дополнение для конструктора страниц Brizy."
+
+#~ msgid "About Us"
+#~ msgstr "О нас"
+
+#~ msgid ""
+#~ "Introduce yourself and your business with a clean layout to reassure your "
+#~ "leads and customers."
+#~ msgstr "Представьте себя и свой бизнес с помощью понятного макета."
+
+#~ msgid ""
+#~ "Expand your reach by accepting appointments online plus detailing your "
+#~ "services and staff."
+#~ msgstr "Расширьте свой охват, принимая записи на прием в Интернете."
+
+#~ msgid "Contact Us"
+#~ msgstr "Свяжитесь с нами"
+
+#~ msgid ""
+#~ "Make it easy to get in touch with you through a completely customizable "
+#~ "built-in contact form."
+#~ msgstr ""
+#~ "Сделайте так, чтобы с вами было легко связаться с помощью полностью "
+#~ "настраиваемой контактной формы."
+
+#~ msgid "FAQ"
+#~ msgstr "Часто задаваемые вопросы"
+
+#~ msgid ""
+#~ "Lighten the load on your support team or your inbox by addressing "
+#~ "frequently asked questions."
+#~ msgstr ""
+#~ "Снизьте нагрузку на вашу службу поддержки или свой почтовый ящик, ответив "
+#~ "на часто задаваемые вопросы."
+
+#~ msgid "Meet the Team"
+#~ msgstr "Встретиться с командой"
+
+#~ msgid ""
+#~ "Help potential clients feel more at ease by showing off your hard-working "
+#~ "and trustworthy team."
+#~ msgstr ""
+#~ "Помогите потенциальным клиентам почувствовать себя более непринужденно, "
+#~ "продемонстрировав свою трудолюбивую и надежную команду."
+
+#~ msgid "Menu"
+#~ msgstr "Меню"
+
+#~ msgid ""
+#~ "Display your delicious dishes online to entice website visitors to become "
+#~ "restaurant customers."
+#~ msgstr ""
+#~ "Продемонстрируйте свои вкусные блюда в Интернете, чтобы побудить "
+#~ "посетителей сайта стать клиентами ресторана."
+
+#~ msgid "Portfolio"
+#~ msgstr "Портфолио"
+
+#~ msgid ""
+#~ "Impress leads by visually showcasing your achievements, case studies, and "
+#~ "past work."
+#~ msgstr ""
+#~ "Произведите впечатление на потенциальных клиентов, визуально "
+#~ "продемонстрировав свои достижения, тематические исследования и прошлые "
+#~ "работы."
+
+#~ msgid "Services"
+#~ msgstr "Услуги"
+
+#~ msgid ""
+#~ "Let the world know your services or products' cost and features in an "
+#~ "organized pricing table."
+#~ msgstr ""
+#~ "Расскажите миру о стоимости и характеристиках ваших услуг или продуктов в "
+#~ "организованной таблице цен."
+
+#~ msgid "Shop"
+#~ msgstr "Магазин"
+
+#~ msgid ""
+#~ "Categorize and sell your products online while displaying reviews from "
+#~ "happy customers."
+#~ msgstr ""
+#~ "Классифицируйте и продавайте свои продукты в Интернете, показывая отзывы "
+#~ "счастливых клиентов."
+
+#~ msgid "Testimonials"
+#~ msgstr "Отзывы"
+
+#~ msgid ""
+#~ "Tap into the power of social proof by displaying real-life testimonials "
+#~ "on your website."
+#~ msgstr ""
+#~ "Воспользуйтесь силой социального доказательства, разместив на своем веб-"
+#~ "сайте реальные отзывы."
+
+#~ msgid ""
+#~ "Could not complete the import process for this page. Required WPForms "
+#~ "plugin is not activated."
+#~ msgstr ""
+#~ "Не удалось завершить процесс импорта для этой страницы. Требуемый плагин "
+#~ "WPForms не активирован."
+
+#~ msgid ""
+#~ "Could not complete the import process for this page. Required WPForms "
+#~ "plugin doesn't exist."
+#~ msgstr ""
+#~ "Не удалось завершить процесс импорта для этой страницы. Требуемый плагин "
+#~ "WPForms не существует."
+
+#~ msgid "Meet the Team Form"
+#~ msgstr "Познакомьтесь с командой"
+
+#~ msgid ""
+#~ "Could not complete the import process for this page. Something went wrong "
+#~ "while creating a WPForms contact form."
+#~ msgstr ""
+#~ "Не удалось завершить процесс импорта для этой страницы. Что - то пошло не "
+#~ "так при создании контактной формы WP Forms."
+
+#~ msgid ""
+#~ "Could not complete the import process for this page. Could not update the "
+#~ "imported page with correct WPForms form ID."
+#~ msgstr ""
+#~ "Не удалось завершить процесс импорта для этой страницы. Не удалось "
+#~ "обновить импортированную страницу с правильным идентификатором формы "
+#~ "Forms."
+
+#~ msgid ""
+#~ "Could not import this page. You don't have permission to import content."
+#~ msgstr ""
+#~ "Не удалось импортировать эту страницу. У вас нет разрешения на импорт "
+#~ "контента."
+
+#~ msgid "Could not import this page. Page slug is missing."
+#~ msgstr "Не удалось импортировать эту страницу. Пуля страницы отсутствует."
+
+#~ msgid "An error occured while importing this page: %s"
+#~ msgstr "При импорте этой страницы произошла ошибка: %s"
+
+#~ msgid "The demo content import file is missing."
+#~ msgstr "Отсутствует файл импорта демонстрационного контента."
+
+#~ msgid "Name"
+#~ msgstr "Имя"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Comment or Message"
+#~ msgstr "Комментарий или сообщение"
+
+#~ msgid "Thanks for contacting us! We will be in touch with you shortly."
+#~ msgstr "Спасибо что связались с нами! Мы свяжемся с вами в ближайшее время."
+
+#~ msgid "Error: The customizer import file is missing! File path: %s"
+#~ msgstr "Ошибка: отсутствует файл импорта настройщика! Путь файла: %s"
+
+#~ msgid ""
+#~ "Error: The customizer import file is not in a correct format. Please make "
+#~ "sure to use the correct customizer import file."
+#~ msgstr ""
+#~ "Ошибка: файл импорта настройщика имеет неправильный формат. Убедитесь, "
+#~ "что вы используете правильный файл импорта настройщика."
+
+#~ msgid ""
+#~ "Error: The customizer import file is not suitable for current theme. You "
+#~ "can only import customizer settings for the same theme or a child theme."
+#~ msgstr ""
+#~ "Ошибка: файл импорта настройщика не подходит для текущей темы. Вы можете "
+#~ "импортировать настройки настройщика только для той же или дочерней темы."
+
+#~ msgid "Missing URL for downloading a file!"
+#~ msgstr "Отсутствует URL - адрес для загрузки файла!"
+
+#~ msgid ""
+#~ "An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s "
+#~ "- %6$s."
+#~ msgstr ""
+#~ "Произошла ошибка при извлечении файла из: %1$s%2$s%3$s!%4$sСезон: %5$s - "
+#~ "%6$s."
+
+#~ msgid ""
+#~ "An error occurred while writing file to your server! Tried to write a "
+#~ "file to: %1$s%2$s."
+#~ msgstr ""
+#~ "Произошла ошибка при записи файла на ваш сервер! Попытался записать файл "
+#~ "в: %1$s%2$s."
+
+#~ msgid ""
+#~ "An error occurred while reading a file from your server! Tried reading "
+#~ "file from path: %1$s%2$s."
+#~ msgstr ""
+#~ "Произошла ошибка при чтении файла с вашего сервера! Попытался прочитать "
+#~ "файл по пути: %1$s%2$s."
+
+#~ msgid ""
+#~ "This WordPress page does not have %1$sdirect%2$s write file access. This "
+#~ "plugin needs it in order to save the demo import xml file to the upload "
+#~ "directory of your site. You can change this setting with these "
+#~ "instructions: %3$s."
+#~ msgstr ""
+#~ "Эта страница WordPress не имеет доступа к файлу записи %1$sdirect%2$s для "
+#~ "записи. Он нужен этому плагину, чтобы сохранить демо-импортный XML-файл в "
+#~ "каталог загрузки вашего сайта. Вы можете изменить этот параметр, выполнив "
+#~ "следующие инструкции: %3$s."
+
+#~ msgid ""
+#~ "An error occurred while retrieving reading/writing permissions to your "
+#~ "server (could not retrieve WP filesystem credentials)!"
+#~ msgstr ""
+#~ "Произошла ошибка при получении разрешений на чтение/запись на ваш сервер "
+#~ "(не удалось получить учетные данные файловой системы WP)!"
+
+#~ msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+#~ msgstr ""
+#~ "Ваши учетные данные для входа в WordPress не позволяют использовать "
+#~ "WP_Filesystem!"
+
+#~ msgid ""
+#~ "%1$sYour user role isn't high enough. You don't have permission to import "
+#~ "demo data.%2$s"
+#~ msgstr ""
+#~ "%1$sУ вас недостаточно высокая роль пользователя. У вас нет разрешения на "
+#~ "импорт демонстрационных данных.%2$s"
+
+#~ msgid "No file provided."
+#~ msgstr "Файл не предоставлен."
+
+#~ msgid "Content file was not uploaded. Error: %s"
+#~ msgstr "Файл содержимого не был загружен. Ошибка: %s"
+
+#~ msgid "Widget file was not uploaded. Error: %s"
+#~ msgstr "Файл виджета не загружен. Ошибка: %s"
+
+#~ msgid "Customizer file was not uploaded. Error: %s"
+#~ msgstr "Файл настройщика не загружен. Ошибка: %s"
+
+#~ msgid "Missing Redux option name! Please also enter the Redux option name!"
+#~ msgstr ""
+#~ "Отсутствует имя опции Redux! Пожалуйста, также введите название опции "
+#~ "Redux!"
+
+#~ msgid "Redux file was not uploaded. Error: %s"
+#~ msgstr "Файл Redux не загружен. Ошибка: %s"
+
+#~ msgid "The import files were successfully uploaded!"
+#~ msgstr "Файлы импорта были успешно загружены!"
+
+#~ msgid "Initial max execution time = %s"
+#~ msgstr "Начальное максимальное время выполнения = %s"
+
+#~ msgid "not defined!"
+#~ msgstr "не определено!"
+
+#~ msgid "No preview image defined for this import."
+#~ msgstr ""
+#~ "Для этого импорта не определено изображение для предварительного "
+#~ "просмотра."
+
+#~ msgid "Yes, import!"
+#~ msgstr "Да, импорт!"
+
+#~ msgid "Selected demo import:"
+#~ msgstr "Выбранный демонстрационный импорт:"
+
+#~ msgid "Importing..."
+#~ msgstr "Установка..."
+
+#~ msgid "Install Plugin"
+#~ msgstr "Установите Плагин"
+
+#~ msgid "Whoops, there was a problem importing your content."
+#~ msgstr "К сожалению, при импорте вашего контента возникла проблема."
+
+#~ msgid ""
+#~ "Looks like some of the plugins failed to install. Please try again. If "
+#~ "this issue persists, please manually install the failing plugins and come "
+#~ "back to this step to import the theme demo data."
+#~ msgstr ""
+#~ "Похоже, не удалось установить некоторые плагины. Пожалуйста, попробуйте "
+#~ "еще раз. Если проблема не исчезнет, вручную установите неисправные "
+#~ "плагины и вернитесь к этому шагу, чтобы импортировать демонстрационные "
+#~ "данные темы."
+
+#~ msgid ""
+#~ "Invalid file type detected! Please select an XML file for the Content "
+#~ "Import."
+#~ msgstr ""
+#~ "Обнаружен недопустимый тип файла! Пожалуйста, выберите XML-файл для "
+#~ "импорта содержимого."
+
+#~ msgid ""
+#~ "Invalid file type detected! Please select a JSON or WIE file for the "
+#~ "Widgets Import."
+#~ msgstr ""
+#~ "Обнаружен недопустимый тип файла! Пожалуйста, выберите файл JSON или WIDE "
+#~ "для импорта виджетов."
+
+#~ msgid ""
+#~ "Invalid file type detected! Please select a DAT file for the Customizer "
+#~ "Import."
+#~ msgstr ""
+#~ "Обнаружен недопустимый тип файла! Пожалуйста, выберите файл DAT для "
+#~ "импорта настройщика."
+
+#~ msgid ""
+#~ "Invalid file type detected! Please select a JSON file for the Redux "
+#~ "Import."
+#~ msgstr ""
+#~ "Обнаружен недопустимый тип файла! Пожалуйста, выберите файл JSON для "
+#~ "повторного импорта."
+
+#~ msgid ""
+#~ "Manual import files are missing! Please select the import files and try "
+#~ "again."
+#~ msgstr ""
+#~ "Файлы ручного импорта отсутствуют! Пожалуйста, выберите файлы импорта и "
+#~ "повторите попытку."
+
+#~ msgid "The import files for: %s were successfully downloaded!"
+#~ msgstr "Файлы импорта для: %s были успешно загружены!"
+
+#~ msgid "Import Complete!"
+#~ msgstr "Импорт завершен!"
+
+#~ msgid ""
+#~ "Congrats, your demo was imported successfully. You can now begin editing "
+#~ "your site."
+#~ msgstr ""
+#~ "Поздравляю, ваш стартовый шаблон был успешно импортирован! Теперь введите "
+#~ "лицензионный ключ от темы Алмаз в плагин Brizy Pro, после этого вы "
+#~ "сможете начать редактирование своего сайта."
+
+#~ msgid ""
+#~ "Your import completed, but some things may not have imported properly."
+#~ msgstr ""
+#~ "Ваш импорт завершен, но некоторые вещи, возможно, были импортированы "
+#~ "неправильно."
+
+#~ msgid ""
+#~ "<p><a href=\"%s\" target=\"_blank\">View error log</a> for more "
+#~ "information.</p>"
+#~ msgstr ""
+#~ "<p><a href=\"%s\" target=\"_blank\">Просмотрите журнал ошибок</a> для "
+#~ "получения дополнительной информации.</p>"
+
+#~ msgid ""
+#~ "Join 4,000,000+ professionals who build smarter forms and surveys with "
+#~ "WPForms."
+#~ msgstr ""
+#~ "Присоединяйтесь к более чем 4 000 000 профессионалам, которые создают "
+#~ "более умные формы и опросы с помощью форумов WP."
+
+#~ msgid "Use All in One SEO Pack to optimize your WordPress site for SEO."
+#~ msgstr ""
+#~ "Используйте All in One SEO Pack для оптимизации вашего сайта WordPress "
+#~ "для SEO."
+
+#~ msgid ""
+#~ "The #1 Google Analytics Plugin for WordPress that’s easy and powerful."
+#~ msgstr "Плагин Google Analytics № 1 для WordPress, который прост и мощен."
+
+#~ msgid "Custom Landing Pages by SeedProd"
+#~ msgstr "Пользовательские целевые страницы от SeedProd"
+
+#~ msgid ""
+#~ "Work on your site in private while visitors see a \"Coming Soon\" or "
+#~ "\"Maintenance Mode\" page."
+#~ msgstr ""
+#~ "Работайте на своем сайте в уединении, пока посетители видят страницу "
+#~ "\"Скоро\" или \"Режим обслуживания\"."
+
+#~ msgid ""
+#~ "Display beautifully clean, customizable, and responsive Instagram feeds."
+#~ msgstr ""
+#~ "Отображайте красиво чистые, настраиваемые и отзывчивые ленты Instagram."
+
+#~ msgid ""
+#~ "Make email delivery easy for WordPress. Connect with SMTP, Gmail, "
+#~ "Outlook, Mailgun, and more."
+#~ msgstr ""
+#~ "Упростите доставку электронной почты для WordPress. Подключайтесь с "
+#~ "помощью SMTP, Gmail, Outlook, Mailgun и многого другого."
+
+#~ msgid "Could not install the plugin. Plugin slug is missing."
+#~ msgstr "Не удалось установить плагин. Слаг плагина отсутствует."
+
+#~ msgid "Plugin is already installed and activated!"
+#~ msgstr "Плагин уже установлен и активирован!"
+
+#~ msgid "Plugin was already installed! We activated it for you."
+#~ msgstr "Плагин уже установлен! Мы активировали его для вас."
+
+#~ msgid "Could not install the plugin. Don't have file permission."
+#~ msgstr "Не удалось установить плагин. У вас нет прав доступа к файлу."
+
+#~ msgid "Plugin installed and activated succesfully."
+#~ msgstr "Плагин успешно установлен и активирован."
+
+#~ msgid ""
+#~ "Could not install the plugin. WP Plugin installer could not retrieve "
+#~ "plugin information."
+#~ msgstr ""
+#~ "Не удалось установить плагин. Установщик плагина WP не смог получить "
+#~ "информацию о плагине."
+
+#~ msgid "The Redux plugin is not activated, so the Redux import was skipped!"
+#~ msgstr "Плагин Redux не активирован, поэтому импорт Redux был пропущен!"
+
+#~ msgid "Redux settings import for: %s finished successfully!"
+#~ msgstr "Импорт настроек Redux для: %s успешно завершен!"
+
+#~ msgid ""
+#~ "The Redux option name: %s, was not found in this WP site, so it was not "
+#~ "imported!"
+#~ msgstr ""
+#~ "Имя опции Redux: %s, не было найдено на этом сайте WP, поэтому оно не "
+#~ "было импортировано!"
+
+#~ msgid "Questionmark icon"
+#~ msgstr "Значок вопросительного знака"
+
+#~ msgid "Theme screenshot"
+#~ msgstr "Скриншот темы"
+
+#~ msgid "There are no predefined demo imports for currently active theme!"
+#~ msgstr "Для текущей активной темы нет предопределенного демо-импорта!"
+
+#~ msgid "Here are the predefined demo imports:"
+#~ msgstr "Вот предопределенные демо-импорт:"
+
+#~ msgid ""
+#~ "At least one of the possible options should be set! Check them with --help"
+#~ msgstr ""
+#~ "Должен быть установлен хотя бы один из возможных вариантов! Проверьте их "
+#~ "с помощью --help"
+
+#~ msgid ""
+#~ "The \"predefined\" parameter should be a number (an index of the OCDI "
+#~ "predefined demo import)!"
+#~ msgstr ""
+#~ "Параметр «предопределенный» должен быть числом (индекс предопределенного "
+#~ "импорта демо-версии OCDI)!"
+
+#~ msgid ""
+#~ "The supplied predefined index does not exist! Please take a look at the "
+#~ "available predefined demo imports:"
+#~ msgstr ""
+#~ "Предоставленный предопределенный индекс не существует! Пожалуйста, "
+#~ "взгляните на доступные предварительно определенные демо-импортные версии:"
+
+#~ msgid ""
+#~ "Predefined demo import started! All other parameters will be ignored!"
+#~ msgstr ""
+#~ "Начался импорт предопределенной демо-версии! Все остальные параметры "
+#~ "будут проигнорированы!"
+
+#~ msgid "Selected predefined demo import: %s"
+#~ msgstr "Выбранный предварительно определенный демонстрационный импорт: %s"
+
+#~ msgid "Demo import files retrieved successfully!"
+#~ msgstr "Демонстрационные файлы импорта успешно восстановлены!"
+
+#~ msgid "Predefined import finished!"
+#~ msgstr "Предопределенный импорт завершен!"
+
+#~ msgid "Content import file provided does not exist! Skipping this import!"
+#~ msgstr ""
+#~ "Предоставленный файл импорта содержимого не существует! Пропуск этого "
+#~ "импорта!"
+
+#~ msgid "Importing content (this might take a while)..."
+#~ msgstr "Импорт содержимого (это может занять некоторое время) ..."
+
+#~ msgid "There were some issues while importing the content!"
+#~ msgstr "При импорте контента возникли некоторые проблемы!"
+
+#~ msgid "Widgets import file provided does not exist! Skipping this import!"
+#~ msgstr ""
+#~ "Указанный файл импорта виджетов не существует! Пропуск этого импорта!"
+
+#~ msgid "Importing widgets..."
+#~ msgstr "Импорт виджетов ..."
+
+#~ msgid "Widgets imported successfully!"
+#~ msgstr "Виджеты успешно импортированы!"
+
+#~ msgid "There were some issues while importing widgets!"
+#~ msgstr "При импорте виджетов возникли некоторые проблемы!"
+
+#~ msgid ""
+#~ "Customizer import file provided does not exist! Skipping this import!"
+#~ msgstr ""
+#~ "Указанный файл импорта настройщика не существует! Пропуск этого импорта!"
+
+#~ msgid "Importing customizer settings..."
+#~ msgstr "Импорт настроек настройщика..."
+
+#~ msgid "Customizer settings imported successfully!"
+#~ msgstr "Настройки настройщика успешно импортированы!"
+
+#~ msgid "There were some issues while importing customizer settings!"
+#~ msgstr "При импорте настроек настройщика возникли некоторые проблемы!"
+
+#~ msgid "Executing action: %s ..."
+#~ msgstr "Выполнение действия: %s ..."
+
+#~ msgid "Error: Widget import file could not be found."
+#~ msgstr "Ошибка: не удалось найти файл импорта виджета."
+
+#~ msgid ""
+#~ "Error: Widget import data could not be read. Please try a different file."
+#~ msgstr ""
+#~ "Ошибка: данные импорта виджета не могут быть прочитаны. Пожалуйста, "
+#~ "попробуйте другой файл."
+
+#~ msgid "No results for widget import!"
+#~ msgstr "Нет результатов для импорта виджетов!"
+
+#~ msgid ""
+#~ "The %2$sOne Click Demo Import%3$s plugin requires %2$sPHP 5.6+%3$s to run "
+#~ "properly. Please contact your hosting company and ask them to update the "
+#~ "PHP version of your site to at least PHP 7.4%4$s Your current version of "
+#~ "PHP: %2$s%1$s%3$s"
+#~ msgstr ""
+#~ "%2$sТема Almaz%3$s требует %2$sPHP 5.6+%3$s для правильной работы. "
+#~ "Пожалуйста, свяжитесь с вашей хостинговой компанией и попросите их "
+#~ "обновить версию PHP вашего сайта как минимум до PHP 7.4%4$s Ваша текущая "
+#~ "версия PHP: %2$s%1$s%3$s"
+
+#~ msgid ""
+#~ "The XMLReader class is missing! Please install the XMLReader PHP "
+#~ "extension on your server"
+#~ msgstr ""
+#~ "Класс XmlReader отсутствует! Пожалуйста, установите расширение PHP "
+#~ "XmlReader на свой сервер"
+
+#~ msgid "Could not open the XML file for parsing!"
+#~ msgstr "Не удалось открыть XML-файл для синтаксического анализа!"
+
+#~ msgid "Content import start error: "
+#~ msgstr "Ошибка начала импорта контента: "
+
+#~ msgid "Could not open the file for parsing"
+#~ msgstr "Не удалось открыть файл на разбор"
+
+#~ msgid "Invalid author mapping"
+#~ msgstr "Недопустимое сопоставление авторов"
+
+#~ msgid "Cannot import auto-draft posts"
+#~ msgstr "Cannot import auto-draft posts"
+
+#~ msgid "Failed to import \"%s\" (%s)"
+#~ msgstr "Не удалось импортировать \"%s\" (%s)"
+
+#~ msgid "Imported \"%s\" (%s)"
+#~ msgstr "Импортированные \"%s\" (%s)"
+
+#~ msgid "Post %d remapped to %d"
+#~ msgstr "Сообщение %d перенесено на %d"
+
+#~ msgid "Failed to import term: %s - %s"
+#~ msgstr "Не удалось импортировать термин: %s - %s"
+
+#~ msgid "Imported user \"%s\""
+#~ msgstr "Импортированный пользователь \"%s\""
+
+#~ msgid "User %d remapped to %d"
+#~ msgstr "Пользователь %d переназначен на %d"
+
+#~ msgid "Term %d remapped to %d"
+#~ msgstr "Термин %d переназначен на %d"
+
+#~ msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+#~ msgstr "Не удалось добавить мета-ключ: %s, мета-значение: %s в term_id: %d"
+
+#~ msgid "Meta for term_id %d : %s => %s ; successfully added!"
+#~ msgstr "Мета для term_id %d : %s => %s ; успешно добавлено!"
+
+#~ msgid "Running post-processing for post %d"
+#~ msgstr "Запуск постобработки для post %d"
+
+#~ msgid "Could not find the post parent for \"%s\" (post #%d)"
+#~ msgstr "Не удалось найти родительский пост для \"%s\" (post #%d)"
+
+#~ msgid "Post %d was imported with parent %d, but could not be found"
+#~ msgstr "%d %d, не удалось найти родительскую запись для"
+
+#~ msgid "Could not find the author for \"%s\" (post #%d)"
+#~ msgstr "Не удалось найти автора \"%s\" (post #%d)"
+
+#~ msgid "Post %d was imported with author \"%s\", but could not be found"
+#~ msgstr "Статья %d было импортировано с автором \"%s\", но не найдено"
+
+#~ msgid "Post %d was marked for post-processing, but none was required."
+#~ msgstr ""
+#~ "Статья %d была помечена для последующей обработки, но оно не требовалось."
+
+#~ msgid "Could not update \"%s\" (post #%d) with mapped data"
+#~ msgstr "Не удалось обновить \"%s\" (post #%d) with mapped data"
+
+#~ msgid "Could not find the menu object for \"%s\" (post #%d)"
+#~ msgstr "Не удалось найти объект меню для \"%s\" (post #%d)"
+
+#~ msgid ""
+#~ "Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+#~ "found"
+#~ msgstr ""
+#~ "Статья %d была импортирована с объектом \"%d\" of type \"%s\", но не "
+#~ "удалось найти"
+
+#~ msgid "Could not find the comment parent for comment #%d"
+#~ msgstr "Не удалось найти родительский комментарий для комментария #%d"
+
+#~ msgid "Comment %d was imported with parent %d, but could not be found"
+#~ msgstr ""
+#~ "Комментарий %d был импортирован вместе с родительским %d, но не найден"
+
+#~ msgid "Could not find the author for comment #%d"
+#~ msgstr "Не удалось найти автора комментария #%d"
+
+#~ msgid "Comment %d was imported with author %d, but could not be found"
+#~ msgstr "Комментарий %d был импортирован автором %d, но не найден"
+
+#~ msgid "Could not update comment #%d with mapped data"
+#~ msgstr "Не удалось обновить комментарий #%d сопоставленными данными"
+
+#~ msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+#~ msgstr ""
+#~ "Неправильный term_id, указанный в массиве терминов для переназначения %s"
+
+#~ msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+#~ msgstr ""
+#~ "В массиве терминов для переназначения для термина #%d не указана "
+#~ "таксономия"
+
+#~ msgid "No parent_slug identified in remapping-array for term: %d"
+#~ msgstr "В массиве переназначения для термина %d не указан parent_slug"
+
+#~ msgid ""
+#~ "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+#~ msgstr "Термин (%d)\"s parent_slug (%s) не найден в массиве переназначения."
+
+#~ msgid "No data returned by get_term_by for term_id #%d"
+#~ msgstr "Нет данных, возвращенных get_term_by for term_id #%d"
+
+#~ msgid "Could not update \"%s\" (term #%d) with mapped data"
+#~ msgstr "Не удалось обновить \"%s\" (term #%d) with mapped data"
+
+#~ msgid "Term %d was successfully updated with parent %d"
+#~ msgstr "Термин %d был успешно обновлен с родительским %d"
+
+#~ msgid "Starting remapping of featured images"
+#~ msgstr "Начало переназначения избранных изображений"
+
+#~ msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+#~ msgstr ""
+#~ "Переназначение идентификатора избранного изображения ID %d на новый "
+#~ "идентификатор ID %d для post ID %d"
+
+#~ msgid "Create Demo Content"
+#~ msgstr "Создать демонстрационный контент"
+
+#~ msgid ""
+#~ "Select which pre-built pages you want to import to use on your website. "
+#~ "After that, all you need to do is customize the content to fit your needs "
+#~ "and your page will be good to go."
+#~ msgstr ""
+#~ "Выберите, какие предварительно созданные страницы вы хотите импортировать "
+#~ "для использования на своем веб-сайте. После этого все, что вам нужно "
+#~ "сделать, это настроить контент в соответствии со своими потребностями, и "
+#~ "ваша страница будет в порядке."
+
+#~ msgid "Checkmark icon"
+#~ msgstr "Значок галочки"
+
+#~ msgid "Loading..."
+#~ msgstr "Загружается ..."
+
+#~ msgid "Back icon"
+#~ msgstr "Значок Назад"
+
+#~ msgid "Before We Import Your Demo"
+#~ msgstr "Установка плагинов для стартового шаблона"
+
+#~ msgid ""
+#~ "To ensure the best experience, installing the following plugins is "
+#~ "strongly recommended, and in some cases required."
+#~ msgstr "Требуется установка следующих плагинов."
+
+#~ msgid ""
+#~ "All required/recommended plugins are already installed. You can import "
+#~ "your demo content."
+#~ msgstr ""
+#~ "Все необходимые / рекомендуемые плагины уже установлены. Вы можете "
+#~ "импортировать свой демонстрационный контент."
+
+#~ msgid "Star icon"
+#~ msgstr "Значок звездочки"
+
+#~ msgid "Lock icon"
+#~ msgstr "Значок замка"
+
+#~ msgid ""
+#~ "The plugins with %1$s are recommended by One Click Demo Import plugin to "
+#~ "help you grow your website. They are not required for the %2$s theme to "
+#~ "work."
+#~ msgstr ""
+#~ "Плагины %1$s рекомендуются плагином One Click Demo Import чтобы помочь "
+#~ "вам в развитии вашего сайта. Они не требуются для работы темы %2$s."
+
+#~ msgid "Continue & Import"
+#~ msgstr "Продолжить и импортировать"
+
+#~ msgid "Importing Content"
+#~ msgstr "Импорт содержимого"
+
+#~ msgid ""
+#~ "Please sit tight while we import your content. Do not refresh the page or "
+#~ "hit the back button."
+#~ msgstr ""
+#~ "Пожалуйста, подождите пока мы импортируем стартовый шаблон. Не обновляйте "
+#~ "страницу и не нажимайте кнопку «Назад»."
+
+#~ msgid "Enter Brizy Pro license code"
+#~ msgstr "Ввести лицензионный ключ для Brizy Pro"
+
+#~ msgid "Install Recommended Plugins"
+#~ msgstr "Установите рекомендуемые плагины"
+
+#~ msgid ""
+#~ "Want to use the best plugins for the job? Here is the list of awesome "
+#~ "plugins that will help you achieve your goals."
+#~ msgstr ""
+#~ "Хотите использовать лучшие плагины для работы? Вот список замечательных "
+#~ "плагинов, которые помогут вам достичь ваших целей."
+
+#~ msgid ""
+#~ "%1$sWarning: your server is using %2$sPHP safe mode%3$s. This means that "
+#~ "you might experience server timeout errors.%4$s"
+#~ msgstr ""
+#~ "%1$sВнимание: ваш сервер %2$sиспользует безопасный режим%3$s. Это "
+#~ "означает, что вы можете столкнуться с ошибками тайм-аута сервера.%4$s"
+
+#~ msgid ""
+#~ "Importing demo data (post, pages, images, theme settings, etc.) is the "
+#~ "quickest and easiest way to set up your new theme."
+#~ msgstr ""
+#~ "Импорт демонстрационных данных (сообщение, страницы, изображения, "
+#~ "настройки темы и т. Д.) - это самый быстрый и простой способ настроить "
+#~ "новую тему."
+
+#~ msgid ""
+#~ "It allows you to simply edit everything instead of creating content and "
+#~ "layouts from scratch."
+#~ msgstr ""
+#~ "Это позволяет вам просто редактировать все, вместо того, чтобы создавать "
+#~ "контент и макеты с нуля."
+
+#~ msgid "Learn more"
+#~ msgstr "Учить больше"
+
+#~ msgid ""
+#~ "There are no predefined import files available for this theme. Please "
+#~ "upload the import files manually below."
+#~ msgstr ""
+#~ "Для этой темы нет предопределенных файлов импорта. Пожалуйста, загрузите "
+#~ "файлы импорта вручную ниже."
+
+#~ msgid "Version: %s"
+#~ msgstr "Версия: %s"
+
+#~ msgid "By %s"
+#~ msgstr "Автор %s"
+
+#~ msgid "Switch to Manual Import"
+#~ msgstr "Переключиться на ручной импорт"
+
+#~ msgid "Switch back to Theme Predefined Imports"
+#~ msgstr "Вернуться к предопределенному импорту темы"
+
+#~ msgid "Manual Demo File Import"
+#~ msgstr "Импорт демонстрационного файла вручную"
+
+#~ msgid "Content import icon"
+#~ msgstr "Значок импорта контента"
+
+#~ msgid "Select an XML file to import."
+#~ msgstr "Выберите файл XML для импорта."
+
+#~ msgid "Select a JSON/WIE file to import."
+#~ msgstr "Выберите файл JSON / WIE для импорта."
+
+#~ msgid "Customizer import icon"
+#~ msgstr "Значок импорта настройщика"
+
+#~ msgid "Select a DAT file to import."
+#~ msgstr "Выберите файл DAT для импорта."
+
+#~ msgid "Redux import icon"
+#~ msgstr "Значок импорта Redux"
+
+#~ msgid "Import Redux"
+#~ msgstr "Импортировать Redux"
+
+#~ msgid "Select a JSON file and enter Redux option name."
+#~ msgstr "Выберите файл JSON и введите имя опции Redux."
+
+#~ msgid "Enter Option Name"
+#~ msgstr "Введите название опции"
+
+#~ msgid "Recommended plugins icon"
+#~ msgstr "Значок рекомендуемых плагинов"
+
+#~ msgid "Install Plugins"
+#~ msgstr "Установить плагины"
+
+#~ msgid "Create demo content icon"
+#~ msgstr "Создать значок демонстрационного контента"
+
+#~ msgid "Create useful content with a few clicks."
+#~ msgstr "Создавайте полезный контент в несколько кликов."
+
+#~ msgid "Create Content"
+#~ msgstr "Создать контент"
+
+#~ msgid "Create landing pages icon"
+#~ msgstr "Создать значок целевых страниц"
+
+#~ msgid "Create Landing Pages"
+#~ msgstr "Создать целевые страницы"
+
+#~ msgid "Create beautiful converting pages."
+#~ msgstr "Создавайте красивые конвертирующие страницы."
+
+#~ msgid "No preview image."
+#~ msgstr "Нет изображения для предварительного просмотра."
+
+#~ msgid "Universal site"
+#~ msgstr "Универсальный сайт"
+
+#~ msgid "Universal landing page"
+#~ msgstr "Универсальный лендинг"
+
+#~ msgid "Dancing school"
+#~ msgstr "Школа танцев"
+
+#~ msgid "School of Arts"
+#~ msgstr "Школа искусств"
+
+#~ msgid "Language school Polyglot"
+#~ msgstr "Языковая школа Полиглот"
+
+#~ msgid "Hotel Almaz"
+#~ msgstr "Отель Алмаз"
+
+#~ msgid "Beauty saloon"
+#~ msgstr "Салон красоты"
+
+#~ msgid "Car service"
+#~ msgstr "Автосервис"
+
+#~ msgid "Palermo Cafe"
+#~ msgstr "Кафе Palermo"
+
+#~ msgid "SMM specialist"
+#~ msgstr "SMM специалист"
+
+#~ msgid "SEO specialist"
+#~ msgstr "SEO специалист"
+
+#~ msgid "Copywriter"
+#~ msgstr "Копирайтер"
+
+#~ msgid "Web Designer"
+#~ msgstr "Веб дизайнер"
+
+#~ msgid "Enter the license key for Almaz theme"
+#~ msgstr "Введите лицензионный ключ от темы Алмаз"
+
+#~ msgid "Ваш лицензионный ключ"
+#~ msgstr "Ваш лицензионный ключ"

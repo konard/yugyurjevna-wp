@@ -1,0 +1,46 @@
+/* demo content */
+/* Скрыть в demo content описание темы */
+
+.ai-header,
+.ai-sidebar,
+.ai-details,
+.ai-author-info,
+.ai-form-file-import,
+.swal2-title,
+.swal2-title,
+.ai-actions-buttons,
+.swal2-confirm {
+	display: none;
+}
+
+
+/* almaz-theme-admin-page */
+.wrap-almaz-theme-admin-page {
+	margin: 15px 20px 0 2px;
+    max-width: 600px;
+}
+
+.wrap-almaz-theme-admin-page hr {
+    margin-block-start: 2em;
+    margin-block-end: 1em;
+}
+
+.wrap-almaz-theme-admin-page p {
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+.wrap-almaz-theme-admin-page p a{
+    font-size: 17px;
+	text-decoration: none;
+
+}
+
+
+.wrap-almaz-theme-admin-page h2 {
+	font-size: 23px;
+    font-weight: 400;
+    margin: 0;
+    padding: 9px 0 4px 0;
+    line-height: 1.3;
+}

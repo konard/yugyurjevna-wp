@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Алмаз премиум сайты\n"
+"POT-Creation-Date: 2022-08-04 16:35+0500\n"
+"PO-Revision-Date: 2022-08-04 16:35+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: almaz-premium-sites.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. translators: the plugin name.
+#: admin/updater/class-almaz-premium-sites-updater.php:257
+#, php-format
+msgid "There is a new version of %1$s available."
+msgstr "Доступна новая версия %1$s."
+
+#: admin/updater/class-almaz-premium-sites-updater.php:263
+msgid "Contact your network administrator to install the update."
+msgstr "Обратитесь к администратору, чтобы установить обновление."
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin version 3. closing anchor tag, do not translate.
+#: admin/updater/class-almaz-premium-sites-updater.php:268
+#, php-format
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sПосмотреть версию %2$s детали%3$s."
+
+#: admin/updater/class-almaz-premium-sites-updater.php:276
+#, php-format
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sПосмотреть версию %2$s детали%3$s или же %4$sобновить сейчас%5$s."
+
+#: admin/updater/class-almaz-premium-sites-updater.php:287
+msgid "Update now."
+msgstr "Обновить сейчас."
+
+#: admin/updater/class-almaz-premium-sites-updater.php:519
+msgid "You do not have permission to install plugin updates"
+msgstr "У вас нет разрешения на установку обновлений плагинов"
+
+#: admin/updater/class-almaz-premium-sites-updater.php:519
+msgid "Error"
+msgstr "Ошибка"
+
+#: admin/updater/plugin-updater-admin.php:15
+#: admin/updater/plugin-updater-admin.php:16
+msgid "Лицензия Алмаз"
+msgstr ""
+
+#: admin/updater/plugin-updater-admin.php:29
+#: admin/updater/plugin-updater-admin.php:30
+msgid "Лицензия Алмаз премиум сайты"
+msgstr ""
+
+#: admin/updater/plugin-updater-admin.php:48
+msgid "License Key Almaz Premium sites"
+msgstr "Лицензионный ключ от Премиум сайтов Алмаз"
+
+#: admin/updater/plugin-updater-admin.php:55 almaz-premium-sites.php:136
+msgid "License"
+msgstr "Лицензия"
+
+#: admin/updater/plugin-updater-admin.php:87
+msgid "Enter your license key."
+msgstr "Введите лицензионный ключ."
+
+#: admin/updater/plugin-updater-admin.php:95
+msgid "Deactivate License"
+msgstr "Деактивировать лицензию"
+
+#: admin/updater/plugin-updater-admin.php:100
+msgid "Activate License"
+msgstr "Активировать лицензию"
+
+#: admin/updater/plugin-updater-admin.php:186
+#: admin/updater/plugin-updater-admin.php:228
+#: admin/updater/plugin-updater-admin.php:304
+msgid "An error occurred, please try again."
+msgstr "Произошла ошибка. Пожалуйста, попробуйте еще раз."
+
+#: admin/updater/plugin-updater-admin.php:199
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "Срок действия вашего лицензионного ключа истек %s."
+
+#: admin/updater/plugin-updater-admin.php:206
+msgid "Your license key has been disabled."
+msgstr "Ваш лицензионный ключ отключен."
+
+#: admin/updater/plugin-updater-admin.php:210
+msgid "Invalid license."
+msgstr "Недействительная лицензия."
+
+#: admin/updater/plugin-updater-admin.php:215
+msgid "Your license is not active for this URL."
+msgstr "Ваша лицензия не активна для этого URL."
+
+#: admin/updater/plugin-updater-admin.php:220
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr "Похоже, это неверный лицензионный ключ для %s."
+
+#: admin/updater/plugin-updater-admin.php:224
+msgid "Your license key has reached its activation limit."
+msgstr "Ваш лицензионный ключ достиг предела активации."
+
+#: admin/updater/plugin-updater-admin.php:415
+msgid ""
+"Премиум сайты Алмаз: Введите лицензионный ключ, чтобы получать обновления, "
+"расширенную поддержку, доступ к премиум шаблонам."
+msgstr ""
+
+#: almaz-premium-sites.php:147
+msgid "Premium sites"
+msgstr "Премиум сайты"
+
+#. Plugin Name of the plugin/theme
+msgid "Almaz premium sites"
+msgstr "Премиум сайты Алмаз"
+
+#. Plugin URI of the plugin/theme
+msgid "https://almazwptemplates.ru/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Премиум стартовые шаблоны сайтов от команды Almazweb.Company"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "AlmazWeb.Company"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://almazweb.company/"
+msgstr ""

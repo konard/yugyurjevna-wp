@@ -1,0 +1,885 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Almaz\n"
+"POT-Creation-Date: 2022-08-04 16:41+0500\n"
+"PO-Revision-Date: 2021-06-26 17:41+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:38 index.php:31 search.php:41
+msgid "Newer posts"
+msgstr ""
+
+#: archive.php:42 index.php:35 search.php:45
+msgid "Older posts"
+msgstr ""
+
+#: comments.php:23
+#, php-format
+msgid "One Response"
+msgid_plural "%1$s Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:69
+msgid ""
+"Алмаз WordPress тема: Введите бесплатный лицензионный ключ, чтобы получать "
+"обновления."
+msgstr ""
+
+#: includes/core/almaz-add-theme-support.php:44
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/core/almaz-add-theme-support.php:45
+msgid "Secondary Menu"
+msgstr ""
+
+#: includes/core/almaz-add-theme-support.php:46
+msgid "Footer Menu"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: includes/core/almaz-admin-menu.php:8 includes/core/almaz-admin-menu.php:9
+msgid "Almaz"
+msgstr ""
+
+#: includes/core/almaz-admin-menu.php:26 includes/core/almaz-admin-menu.php:27
+msgid "Welcome"
+msgstr ""
+
+#: includes/core/almaz-admin-menu.php:69 includes/core/almaz-admin-menu.php:70
+msgid "Documentation"
+msgstr ""
+
+#: includes/core/blog/almaz-comment-count.php:11
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: includes/core/blog/almaz-entry-footer.php:18
+#: includes/core/blog/almaz-entry-footer.php:27
+msgid ", "
+msgstr ""
+
+#: includes/core/blog/almaz-entry-footer.php:22
+msgid "Posted in"
+msgstr ""
+
+#: includes/core/blog/almaz-entry-footer.php:31
+msgid "Tags:"
+msgstr ""
+
+#: includes/core/blog/almaz-posted-by.php:10
+msgid "Posted by"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:145
+msgid "Once Weekly"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:149
+msgid "Once Monthly"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:321
+msgid ""
+"We can't detect any product information. This is most probably because you "
+"have not included the code snippet."
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:814
+#, php-format
+msgid ""
+"Thank you for installing our %1$s. We would like to track its usage on your "
+"site. We don't record any sensitive data, only information regarding the "
+"WordPress environment and %1$s settings, which we will use to help us make "
+"improvements to the %1$s. Tracking is completely optional."
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:820
+#, php-format
+msgid ""
+"Thank you for installing our %1$s. We'd like your permission to track its "
+"usage on your site and subscribe you to our newsletter. We won't record any "
+"sensitive data, only information regarding the WordPress environment and "
+"%1$s settings, which we will use to help us make improvements to the %1$s. "
+"Tracking is completely optional."
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:831
+msgid "Allow"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:832
+msgid "Do Not Allow"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:869
+#, php-format
+msgid ""
+"Thank you for opting in to tracking. Would you like to receive occasional "
+"news about this %s, including details of new features and special offers?"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:878
+msgid "Yes Please"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:879
+msgid "No Thank You"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:910
+msgid "Sorry to see you go"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:911
+msgid ""
+"Before you deactivate the plugin, would you quickly give us your reason for "
+"doing so?"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:913
+msgid "Set up is too difficult"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:914
+msgid "Lack of documentation"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:915
+msgid "Not the features I wanted"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:916
+msgid "Found a better plugin"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:917
+msgid "Installed by mistake"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:918
+msgid "Only required temporarily"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:919
+msgid "Didn't work"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:921
+msgid "Details (optional)"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:960
+msgid "Submitting form"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:1020
+msgid "Submit and Deactivate"
+msgstr ""
+
+#: includes/core/updater/class-plugin-usage-tracker.php:1020
+msgid "Just Deactivate"
+msgstr ""
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:214
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:216
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:218
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: includes/core/updater/update-checker/Puc/v4p13/Plugin/Ui.php:224
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: includes/core/updater/update-checker/Puc/v4p13/Vcs/PluginUpdateChecker.php:100
+msgid "There is no changelog available."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-customizer-importer.php:36
+#: includes/vendor/hashthemes-demo-importer/classes/class-customizer-importer.php:40
+msgid ""
+"Error importing settings! Please check that you uploaded a customizer export "
+"file."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-customizer-importer.php:44
+msgid ""
+"Error importing settings! The settings you uploaded are not for the current "
+"theme."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:122
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:262
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:266
+msgid "Install"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:126
+msgid "Activate"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:130
+msgid "Installed"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:144
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:193
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:159
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:209
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:257
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:236
+msgid "Missing File Location."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-demo-importer.php:270
+msgid "Error!! Plugin not activated."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:27
+msgid "Widget data is not available"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:72
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:94
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:128
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:192
+msgid "Imported"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:195
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/classes/class-widget-importer.php:201
+msgid "No Title"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:97
+msgid "OneClick Demo Install"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:97
+msgid "HashThemes Demo Importer"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:150
+msgid "HashThemes OneClick Demo Importer"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:181
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:200
+msgid "All"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:251
+msgid "Preview"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:258
+msgid "Buy Now"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:281
+msgid ""
+"It looks like the config file for the demos is missing or conatins errors!. "
+"Demo install can't go futher!"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:300
+msgid "Импорт"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:301
+msgid ""
+"This process will install all the required plugins, import contents and "
+"setup customizer and theme options."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:303
+msgid "Required Plugins"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:304
+msgid ""
+"For your website to look exactly like the demo,the import process will "
+"install and activate the following plugin if they are not installed or "
+"activated."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:335
+msgid "No Required Plugins Found."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:343
+msgid "Reset Website"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:344
+msgid ""
+"Reseting the website will delete all your post, pages, custom post types, "
+"categories, taxonomies, images and all other customizer and theme option "
+"settings."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:351
+msgid "Import Demo"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:352
+msgid "Cancel"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:360
+msgid "Demo Import Progress"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:394
+msgid "Database reset complete"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:400
+msgid "Installing required plugins"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:419
+msgid "All the required plugins installed"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:421
+msgid "No plugin required to install"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:427
+msgid "Activating required plugins"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:446
+msgid "All the required plugins activated"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:448
+msgid "No plugin required to activate"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:454
+msgid "Downloading demo files"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:469
+msgid "All demo files downloaded"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:471
+msgid "Importing posts, pages and medias. It may take a bit longer time"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:474
+msgid "Demo import process failed. Demo files can not be downloaded"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:495
+msgid "All content imported"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:497
+msgid "Importing customizer settings"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:500
+msgid "Demo import process failed. No content file found"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:523
+msgid "Customizer settings imported"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:525
+msgid "No customizer settings found"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:530
+msgid "Setting menus"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:546
+msgid "Menus saved"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:548
+msgid "No menus saved"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:553
+msgid "Importing theme option settings"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:579
+msgid "Theme options settings imported"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:581
+msgid "No theme options found"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:586
+msgid "Importing widgets"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:604
+msgid "Widgets imported"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:606
+msgid "No widgets found"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:613
+msgid "Importing Revolution slider"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:638
+msgid "Revolution slider installed"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:640
+msgid "Revolution slider plugin not installed"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:643
+msgid "No Revolution slider found"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1024
+msgid "Not Installed"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1028
+msgid "Installed and Active"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1032
+msgid "Installed but Not Active"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1051
+msgid "Preparing to import demo"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1052
+msgid "Reseting database"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1053
+msgid "Database was not reset"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1054
+#, php-format
+msgid ""
+"There was an error in importing demo. Please reload the page and try again. "
+"If it still did not work then please click %s for more detail."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1055
+msgid "All done. Have fun!"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1055
+msgid "Your website has been successfully setup."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/hashthemes-demo-importer.php:1055
+msgid "Go Back"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:104
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:113
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:164
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:168
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:177
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:105
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:148
+msgid "All done."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:148
+msgid "Have fun!"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:149
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:169
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:185
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:210
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:236
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:237
+msgid ""
+"To make it simpler for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site, such as your primary administrator account."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:239
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:249
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:252
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:256
+msgid "Submit"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:269
+msgid "Import author:"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:282
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:285
+msgid "as a new user:"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:295
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:297
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:305
+msgid "- Select -"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:359
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:412
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:458
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:514
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:607
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:643
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:705
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:878
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:885
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:956
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:969
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1008
+msgid "Could not create temporary file."
+msgstr ""
+
+#. translators: 1: The WordPress error message. 2: The WordPress error code.
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1026
+#, php-format
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr ""
+
+#. translators: 1: The HTTP error message. 2: The HTTP error code.
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1039
+#, php-format
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1049
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1154
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1056
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1172
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1061
+msgid "Downloaded file has incorrect size"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1067
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1178
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1099
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1114
+msgid "The uploaded file could not be moved"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1160
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1167
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1278
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1285
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1300
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wp-import.php:1301
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser-regex.php:96
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser-simplexml.php:43
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser-simplexml.php:48
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser-xml.php:50
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser-simplexml.php:31
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser-simplexml.php:39
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser.php:44
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/vendor/hashthemes-demo-importer/wordpress-importer/class-wxr-parser.php:45
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: search.php:16
+msgid "Search results for:"
+msgstr ""
+
+#. translators: %s: parent post link
+#: single.php:30
+#, php-format
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%s</"
+"span>"
+msgstr ""
+
+#: single.php:37
+msgid "Next Post"
+msgstr ""
+
+#: single.php:38
+msgid "Next post:"
+msgstr ""
+
+#: single.php:40
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:41
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/excerpt.php:12
+msgctxt "post"
+msgid "Featured"
+msgstr ""
+
+#: template-parts/none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/none.php:14
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/widgets.php:8
+msgid "Footer"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://almazwptemplates.ru/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Тема для WordPress Алмаз, это конструктор сайтов разработанный на основе "
+"самых современных веб технологий, в тему встроен один из лучших бесплатных "
+"конструкторов сайтов Brizy Free. Вместе с темой Алмаз вы бесплатно получите "
+"23 шаблона для создания сайта. Дополнительно вы можете приобрести наши "
+"премиальные шаблоны сайтов, разработанные нашими интернет маркетологами и "
+"веб специалистами, специально для Российского бизнеса. В премиум сайты "
+"встроен конструктор сайтов Brizy Pro, который позволит воспользоваться всеми "
+"профессиональными функциями конструктора страниц Brizy."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "almazweb.company"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://almazweb.company/"
+msgstr ""
